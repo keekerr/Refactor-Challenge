@@ -8,23 +8,24 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+/* Updated to reflect the HTML change from div to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,13 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+/* Updated to reflect the HTML change from div to nav */
+.header nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+/* Updated to reflect the HTML change from div to nav */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,22 +89,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Updated to reflect the HTML class change to "benefits" */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Updated to reflect the HTML class change to "benefits"  */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Updated to reflect the HTML class change to "benefits" */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Updated to reflect the HTML class change to "service" */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,22 +118,26 @@ p {
     color: #ffffff;
 }
 
+/* Updated to reflect the HTML class change to "service" */
 .service img {
     max-height: 200px;
 }
 
+/* Updated to reflect the HTML class change to "service" */
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-footer {
+/* Updated to reflect the HTML change from div to footer */
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+/* Updated to reflect the HTML change from div to footer */
+.footer h2 {
     font-size: 20px;
 }
