@@ -1,6 +1,6 @@
 # Refactor-Challenge
 ## Table of Contents
-<!-- *table of contents will look like this [Example] (#example) -->
+
 * [Description](#description)
 * [Code Examples](#code-examples)
 * [Important links](#important-links)
@@ -9,10 +9,10 @@
 
 ## Description
 
-<!-- iNCLUDE THE PURPOSE OF THIS PROJET. lEAVE A LINE BLANK IF YOU WANT TO HAD A TAB BETWENN PARAGRAPHS -->
+The purpose of this project was to analyze index.html and style.css files to identify areas where the code either needed correction or consolidation. The intention of this projecct was to ensure that all code was inline with best practice standards without causeing any changes to the appearance of the deployed website. 
 
 ## Code Examples
-<!--  SHOW EXAMPLES OF THE CHANGES MADE TO THE CODE, change what you title these sections -->
+
 These Code Examples show the type of changes made to the source code in order to remain in compliance with best practices.
 
 Origional Code (HTML)
@@ -127,6 +127,6 @@ Updates Made (CSS)
 ![CSS Badge](https://th.bing.com/th/id/OIP.bVCzXbidOak-TcOhmW0QTAHaHa?pid=ImgDet&w=100&h=120&c=7)
 ## Questions
 
-If you have any questions regarding this project, please feel free to contact me at the email: keeley.s.sprouse@gmail.com
+If you have any questions regarding this project, please feel free to contact me at this email: keeley.s.sprouse@gmail.com
 
 Other examples of projects I have worked on can be viewed on Github via this link: [keekerr](https://github.com/keekerr)
