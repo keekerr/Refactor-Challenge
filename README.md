@@ -7,17 +7,116 @@
 * [Languages Used](#languages-used)
 * [Questions](#questions)
 
-
-
 ## Description
 
 <!-- iNCLUDE THE PURPOSE OF THIS PROJET. lEAVE A LINE BLANK IF YOU WANT TO HAD A TAB BETWENN PARAGRAPHS -->
+
 ## Code Examples
-<!--  SHOW EXAMPLES OF THE CHANGES MADE TO THE CODE -->
+<!--  SHOW EXAMPLES OF THE CHANGES MADE TO THE CODE, change what you title these sections -->
 These Code Examples show the type of changes made to the source code in order to remain in compliance with best practices.
 
-'''js
+Origional Code (HTML)
+```js
+<body>
+    <div class="header">
+        <h1>Hori<span class="seo">
+```
+Updates Made (HTML)
+```js
+<body>
+    <header>
+        <h1>Hori<span class="seo">seo</span>n</h1>
+```
+Origional Code (CSS)
+```js
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
 
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+```
+Updates Made (CSS)
+```JS
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefits {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+```
 ## Important Links
 [GitHub Repository](https://github.com/keekerr/Refactor-Challenge)
 
